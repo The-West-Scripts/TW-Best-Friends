@@ -22,13 +22,12 @@
 // @match           https://*.the-west.it/game.php*
 // @exclude         https://classic.the-west.net/game.php*
 // @grant           none
-// @downloadURL     https://alstol.github.io/TW-Best-Friends/tw-best-friends.user.js
-// @updateURL       https://alstol.github.io/TW-Best-Friends/tw-best-friends.user.js
+// @downloadURL     https://the-west-scripts.github.io/TW-Best-Friends/script.user.js
+// @updateURL       https://the-west-scripts.github.io/TW-Best-Friends/script.user.js
 // @version         1.12
 // @run-at          document-end
 // ==/UserScript==
 
-// http://www.danstools.com/javascript-minify/
 var script = document.createElement('script');
 script.type = 'text/javascript';
 script.textContent = '(' + (function () {
