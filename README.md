@@ -8,4 +8,4 @@ A game modification (Userscript) for InnoGames' browser game called "The-West". 
 
 ## Install URL
 
-https://the-west-scripts.github.io/TW-Best-Friends/script.user.js
+[Click here to install](https://the-west-scripts.github.io/TW-Best-Friends/script.user.js)
